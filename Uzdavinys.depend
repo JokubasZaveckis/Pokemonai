@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1618241946 source:c:\users\jokûbas\desktop\papildomi\uzdavinys\main.cpp
+	<iostream>
+	<iomanip>
+	<algorithm>
+	<fstream>
+	<string>
+	<cmath>
+
